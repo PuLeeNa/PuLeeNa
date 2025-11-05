@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Pulina Wickramasooriya
 
-My career path is growing as an **Software Engineer** and a **Full Stack Developer**.  
-I enjoy solving real-world challenges through **softwares**.
-My initial programming language was **C**, which helped me develop a strong logical foundation.  
-Later, I expanded into **Java**, **Python**, **JavaScript**, and **TypeScript**, which are now my favorite languages for modern applications.  
+My career path is growing as a **Software Engineer** and a **Full Stack Developer**.
+I’m also passionate about **Artificial Intelligence** and **Machine Learning**, which drive my curiosity to build smarter and more adaptive systems.
+I enjoy solving real-world challenges through software solutions.
+My programming journey began with **C**, which strengthened my logical thinking.
+Later, I expanded into **Java**, **Python**, **JavaScript**, and **TypeScript**, which are now my favorite languages for developing modern applications.
 I’m always eager to learn, share ideas, and connect with others in this vibrant tech community! 🚀
 
 ---
@@ -43,11 +44,6 @@ I’m always eager to learn, share ideas, and connect with others in this vibran
 ## 🧠 Hardware & Robotics
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-
----
-
-## 🧰 Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
