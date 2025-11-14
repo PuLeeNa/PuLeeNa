@@ -65,6 +65,7 @@ I’m always eager to learn, share ideas, and connect with others in this vibran
 ---
 
 ## 🌍 Connect With Me  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulina-wickramasooriya-b60910241/)
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PuLeeNa)
 [![email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulina28062001@gmail.com)
 
