@@ -1,11 +1,10 @@
 ## Hi there 👋 I'm Pulina Wickramasooriya
 
-My career path is growing as a **Software Engineer** and a **Full Stack Developer**.
-I’m also passionate about **Artificial Intelligence** and **Machine Learning**, which drive my curiosity to build smarter and more adaptive systems.
-I enjoy solving real-world challenges through software solutions.
-My programming journey began with **C**, which strengthened my logical thinking.
-Later, I expanded into **Java**, **Python**, **JavaScript**, and **TypeScript**, which are now my favorite languages for developing modern applications.
-I’m always eager to learn, share ideas, and connect with others in this vibrant tech community! 🚀
+My career path is growing as a **Software Engineer** and **Full Stack Developer** with **Generative AI integration**, alongside a strong interest in **Artificial Intelligence** and **Machine Learning**. I enjoy building scalable, real-world software solutions and exploring how intelligent systems can enhance modern applications.  
+
+My programming journey began with **C**, which strengthened my logical and problem-solving skills. Over time, I expanded into **Java, Python, JavaScript, and TypeScript**, which are now my primary languages for developing full-stack and AI-driven applications.  
+
+I’m always eager to learn, share ideas, and collaborate with others in the tech community. 🚀
 
 ---
 
