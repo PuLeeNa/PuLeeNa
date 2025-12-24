@@ -99,6 +99,13 @@ I’m always eager to learn, share ideas, and collaborate with others in the tec
 
 ---
 
+## 🎨 Design & Multimedia Tools
+
+![Design Tools](https://skillicons.dev/icons?i=photoshop,illustrator,pr,audition,xd,figma,blender) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
+
+
+---
+
 ## 🌍 Connect With Me
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pulina-wickramasooriya-b60910241/)
