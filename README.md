@@ -53,7 +53,6 @@ I'm always eager to learn, share ideas, and collaborate with others in the tech 
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🤖 Models Worked With
@@ -65,6 +64,7 @@ I'm always eager to learn, share ideas, and collaborate with others in the tech 
 ![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![FLUX.1-Kontext-pro](https://img.shields.io/badge/FLUX.1--Kontext--pro-000000?style=for-the-badge&logoColor=white)
 ![FLUX.2-pro](https://img.shields.io/badge/FLUX.2--pro-000000?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
