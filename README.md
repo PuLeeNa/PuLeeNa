@@ -55,7 +55,18 @@ I'm always eager to learn, share ideas, and collaborate with others in the tech 
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![FLUX](https://img.shields.io/badge/FLUX%20(Black%20Forest%20Labs)-000000?style=for-the-badge&logo=blackforestlabs&logoColor=white)
+
+### 🤖 Models Worked With
+
+| Model | Provider | Type |
+|---|---|---|
+| GPT-5.4 Pro | Azure OpenAI | LLM |
+| GPT-5.4 Nano | Azure OpenAI | LLM |
+| Claude Opus 4.5 | Anthropic | LLM |
+| GPT Image 1.5 | Azure OpenAI | Image Generation |
+| GPT Image 2 | Azure OpenAI | Image Generation |
+| FLUX.1-Kontext-pro | Black Forest Labs | Image Editing |
+| FLUX.2-pro | Black Forest Labs | Image Generation |
 
 ---
 
