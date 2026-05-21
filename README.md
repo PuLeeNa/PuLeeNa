@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Pulina Wickramasooriya
 
-My career path is growing as a **Software Engineer** and **Full Stack Developer** with **Generative AI integration**, alongside a strong interest in **Artificial Intelligence** and **Machine Learning**. I enjoy building scalable, real-world software solutions and exploring how intelligent systems can enhance modern applications.  
+My career path is growing as a **Software Engineer** and **Full Stack Developer** specializing in **Generative AI** and **LLM-powered applications**. I build production-grade AI systems — including multi-agent pipelines and RAG chatbots — and engineer AI-driven solutions for real-world applications.
 
-My programming journey began with **C**, which strengthened my logical and problem-solving skills. Over time, I expanded into **Java, Python, JavaScript, and TypeScript**, which are now my primary languages for developing full-stack and AI-driven applications.  
+My foundation in **C** sharpened my problem-solving instincts. Since then I've grown across **Java, Python, JavaScript, and TypeScript**, delivering scalable full-stack applications and intelligent agent systems.
 
-I'm always eager to learn, share ideas, and collaborate with others in the tech community. 🚀
+I'm passionate about pushing LLMs beyond demos — fine-tuning models, orchestrating agent graphs, and leveraging AI across the full software development lifecycle. Always learning, always building. 🚀
 
 ---
 
