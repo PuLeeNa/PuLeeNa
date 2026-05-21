@@ -104,6 +104,7 @@ I'm always eager to learn, share ideas, and collaborate with others in the tech 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Anti-Gravity](https://img.shields.io/badge/Anti--Gravity-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
