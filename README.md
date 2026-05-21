@@ -58,15 +58,13 @@ I'm always eager to learn, share ideas, and collaborate with others in the tech 
 
 ### 🤖 Models Worked With
 
-| Model | Provider | Type |
-|---|---|---|
-| GPT-5.4 Pro | Azure OpenAI | LLM |
-| GPT-5.4 Nano | Azure OpenAI | LLM |
-| Claude Opus 4.5 | Anthropic | LLM |
-| GPT Image 1.5 | Azure OpenAI | Image Generation |
-| GPT Image 2 | Azure OpenAI | Image Generation |
-| FLUX.1-Kontext-pro | Black Forest Labs | Image Editing |
-| FLUX.2-pro | Black Forest Labs | Image Generation |
+![GPT-5.4 Pro](https://img.shields.io/badge/GPT--5.4%20Pro-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GPT-5.4 Nano](https://img.shields.io/badge/GPT--5.4%20Nano-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Claude Opus 4.5](https://img.shields.io/badge/Claude%20Opus%204.5-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GPT Image 1.5](https://img.shields.io/badge/GPT%20Image%201.5-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![FLUX.1-Kontext-pro](https://img.shields.io/badge/FLUX.1--Kontext--pro-000000?style=for-the-badge&logoColor=white)
+![FLUX.2-pro](https://img.shields.io/badge/FLUX.2--pro-000000?style=for-the-badge&logoColor=white)
 
 ---
 
