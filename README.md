@@ -52,8 +52,10 @@ I'm always eager to learn, share ideas, and collaborate with others in the tech 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![FLUX](https://img.shields.io/badge/FLUX%20(Black%20Forest%20Labs)-000000?style=for-the-badge&logo=blackforestlabs&logoColor=white)
 
 ---
 
